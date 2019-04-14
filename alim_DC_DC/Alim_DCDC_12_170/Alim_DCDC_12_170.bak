@@ -31,7 +31,7 @@ U 1 1 5CAA2E57
 P 7000 3050
 F 0 "T1" H 6863 4075 50  0000 C CNN
 F 1 "transformer_flyback_4P_1S" H 6863 3984 50  0000 C CNN
-F 2 "Transformer_SMD:Transformer_Coilcraft_CST2010" H 7000 3050 50  0001 C CNN
+F 2 "Transformer_SMD:Transformer_Coilcraft_DA2032_AL" H 7000 3050 50  0001 C CNN
 F 3 "" H 7000 3050 50  0001 C CNN
 	1    7000 3050
 	1    0    0    -1  
